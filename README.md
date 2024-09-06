@@ -1,2 +1,8 @@
-# python-dsa
-DSA in Python
+# Data Structure and Algorithms in Python
+
+## How to run this application
+1. Create an environment by running `conda create -p venv python=3.10 -y` command.
+2. Then navigate to the desired file location and the run `python [filename].py` command.
+
+## Data Structures:
+ 1. Linked List  
