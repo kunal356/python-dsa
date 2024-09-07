@@ -5,4 +5,5 @@
 2. Then navigate to the desired file location and the run `python [filename].py` command.
 
 ## Data Structures:
- 1. Linked List  
+ 1. Linked List
+ 2. Queue  
