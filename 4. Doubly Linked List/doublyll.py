@@ -127,7 +127,7 @@ class DoublyLinkedList:
 
 
 def main():
-    print("Welcome to Linked List in python")
+    print("Welcome to Doubly Linked List in python")
     flag = True
     dly_ll = DoublyLinkedList()
     while flag:
@@ -171,7 +171,6 @@ def main():
             print(dly_ll.get_head())
         elif user_input == "9":
             dly_ll.display()
-            print(dly_ll.head.prev)
         else:
             print("Please select proper option")
         
