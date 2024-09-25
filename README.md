@@ -10,3 +10,7 @@
  3. Stack 
  4. Doubly Linked List
  5. Circular Linked List
+
+## Sorting:
+1. Linear Sorting
+2. Binary Sorting
