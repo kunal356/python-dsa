@@ -11,6 +11,9 @@
  4. Doubly Linked List
  5. Circular Linked List
 
-## Sorting:
-1. Linear Sorting
-2. Binary Sorting
+## Search Algorithm:
+ 1. Linear Search
+ 2. Binary Search
+
+## Sorting Algorithm:
+ 1. Bubble Sort
