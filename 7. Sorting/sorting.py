@@ -18,9 +18,25 @@ def selection_sort(arr):
         arr[i], arr[min] = arr[min], arr[i]
     return arr
 
+def insertion_sort(lst):
+    size = len(lst)
+    for i in range(1,size):
+        curr = lst[i]
+        j = i-1
+        shuffled = False
+        while j >=0 and lst[j] > curr:
+            shuffled = True
+            lst[j+1] = lst[j]
+            j-=1
+        if shuffled:
+            lst[j+1] = curr
+        
+    return lst
+
 def main():
     arr = [11, 64, 12, 25, 22]
-    print(bubble_sort(arr=arr))
-    print(selection_sort(arr=arr))
+    # print(bubble_sort(arr=arr))
+    # print(selection_sort(arr=arr))
+    print(insertion_sort(lst=arr))
 if __name__ == "__main__":
     main()
