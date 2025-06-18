@@ -1,4 +1,6 @@
-# Data Structure and Algorithms in Python
+# 📘 Data Structures and Algorithms in Python
+
+Welcome! This repository showcases foundational data structures and essential algorithms implemented in Python. It serves as both a practical reference and a learning tool for understanding how classic structures and algorithms work under the hood.
 
 ## How to run this application
 
@@ -10,7 +12,11 @@
 1.  Linked List
     1. Doubly Linked List
     2. Circular Linked List
-2.  Queue
+2.  Queue:
+    1. Simple Queue
+    2. Circular Queue
+    3. Deque (Double Ended Queue)
+    4. Priority Queue
 3.  Stack
 
 ## Search Algorithm:
