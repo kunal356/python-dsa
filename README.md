@@ -18,6 +18,10 @@ Welcome! This repository showcases foundational data structures and essential al
     3. Deque (Double Ended Queue)
     4. Priority Queue
 3.  Stack
+4.  Tree:
+    1. General Tree
+    2. Binary Tree
+    3. Binary Search Tree (BST)
 
 ## Search Algorithm:
 
